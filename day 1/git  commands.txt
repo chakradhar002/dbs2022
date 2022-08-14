@@ -1,6 +1,0 @@
-https://git-scm.com/downloads
-
-1. git clone https://github.com/chakradhar002/dbs2022.git
-2. git add .
-3  git commit -m "this my spring boot project"
-4. git push origin main
